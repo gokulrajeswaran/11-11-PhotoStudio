@@ -18,6 +18,6 @@ This project gave me hands-on experience in building a real-world styled website
 
 ![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
 ![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/4679274586707cac1e730c39ffd8051f395ebd44/public/Screenshot%202025-09-26%20192138.png)
-![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
+![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/7a0ed1db4609f2d18261258c54352467c998b7e0/public/Screenshot%202025-09-26%20192148.png)
 ![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
 ![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
