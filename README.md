@@ -16,3 +16,8 @@ Works seamlessly across desktop and mobile devices
 
 This project gave me hands-on experience in building a real-world styled website with a focus on design, responsiveness, and performance.
 
+![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
+![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
+![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
+![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
+![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/cf65c7a5ef8a432538726be9c3ecc010a42b1979/public/Screenshot%202025-09-26%20192129.png)
