@@ -27,3 +27,5 @@ This project gave me hands-on experience in building a real-world styled website
 ![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/154f378293e6720593720f9e3c0e3ca684f861e7/public/Screenshot%202025-09-26%20203157.png)
 
 ![alt](https://github.com/gokulrajeswaran/11-11-PhotoStudio/blob/97f1dc9c9e66ee189b819f166fe1dd625f76344c/public/Screenshot%202025-09-26%20192519.png)
+
+![alt]()
